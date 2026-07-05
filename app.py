@@ -108,7 +108,7 @@ def resource_agent(people):
 
 👨‍⚕ Field Doctors Required: {doctors}
 👩‍⚕ Field Nurses Required: {nurses}
-🚑 Ambulances Required: {ambulances}
+🚑 Field Ambulances Required: {ambulances}
 ⛺ Relief Tents Required: {tents}
 💧 Drinking Water: {water} Liters
 🍱 Food Packets: {food}
@@ -181,7 +181,7 @@ def hospital_capacity_agent(people, injuries, risk):
 🛌 General Beds Needed: {general_beds_needed}
 🏨 Total Beds Needed: {total_beds_needed}
 
-🚑 Ambulances Needed: {ambulances_needed}
+🚑 Patient Transport Ambulances Needed: {ambulances_needed}
 👨‍⚕ Trauma Doctors Needed in Hospital: {trauma_doctors_needed}
 👩‍⚕ Hospital Nurses Needed: {nurses_needed}
 
